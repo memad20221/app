@@ -76,6 +76,8 @@ LGPLv3
 
 ## Sponsors
 
-These people helped us bring Festify to life. Thank you!
+This project is tested with [BrowserStack](https://BrowserStack.com) by 18/9/2022. 
+
+These people helped us bring Festify App to life. Thank you!
 
 <a href="https://browserstack.com/"><img title="BrowserStack" src="https://festify.rocks/img/sponsors/browserstack.svg" width="400"></a>
